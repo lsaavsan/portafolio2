@@ -474,7 +474,8 @@ st.markdown(
             <li><strong>Hombres que murieron:</strong>  La mediana de edad es 29 años, el 50% de las edades centrales estuvo entre 21 y 39 años.</li>
             <li><strong>Mujeres que murieron:</strong>  La mediana de edad es 24 años, el 50% de las edades centrales estuvo entre 16 y 33 años.</li>
             <li><strong>Hombres que sobrevivieron:</strong>  La mediana de edad es 28 años, el 50% de las edades centrales estuvo entre 18 y 36 años.</li>
-            Mujeres que sobrevivieron:</strong>  La mediana de edad es 28 años, el 50% de las edades centrales estuvo entre 19 y 38 años.</li>
+
+            <li><strong>Mujeres que sobrevivieron:</strong>  La mediana de edad es 28 años, el 50% de las edades centrales estuvo entre 19 y 38 años.</li>
             <li><strong>Valores Atípicos:</strong>  Se observan valores atípicos en la parte superior del gráfico en hombres con edades mayores de 65 años, principalmente en los murieron.</li>
             </ul>
     """, 
